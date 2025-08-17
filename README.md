@@ -19,3 +19,14 @@ Como executar
 2. No terminal, na pasta do projeto, execute:
 ```Bash
 python main.py
+
+
+O que aprendi
+	1.	Como inicializar um repositório com Git.
+	2.	Como versionar arquivos, criar commits e publicar no GitHub.
+	3.	Estrutura básica de um projeto Python.
+	4.	Como criar um README.md claro explicando objetivo, tecnologias e aprendizados.
+
+Próximos passos
+	1.	Adicionar testes simples.
+	2.	Aceitar um nome e cumprimentar o usuário via linha de comando.
