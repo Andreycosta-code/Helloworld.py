@@ -21,7 +21,7 @@ Como executar
 python main.py
 
 
-/
+
 O que aprendi
 	1.	Como inicializar um repositório com Git.
 	2.	Como versionar arquivos, criar commits e publicar no GitHub.
